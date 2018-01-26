@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -8,6 +7,10 @@ description: >-
   java’s origin and support the farmers that grew it. We take coffee production,
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
+features:
+  - hello
+  - hello2
+  - hello3
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
@@ -98,5 +101,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
